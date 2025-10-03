@@ -1,5 +1,6 @@
 Sistem Manajemen Pegawai Institusi (DPBO)
 1. Janji
+Saya Muhammad Adwar Salman dengan NIM 2401539 mengerjakan Tugas Praktikum 3 dalam mata kuliah Desain Pemrograman Berbasis Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
 
 2. Desain Diagram Program 
 
